@@ -1,14 +1,13 @@
 # 안녕하세요, 저는 [이수연]입니다!
 
-## 👨‍💻 프론트엔드 개발자
+## 👨‍💻 프론트엔드 개발자(웹디자인)
 
-- 🔭 현재 [휴가중]에서 근무 중입니다.
+- 🔭 현재 [---]에서 근무 중입니다.
 - 🌱 현재 `React.js`, `Next.js`와 같은 현대적인 JavaScript 프레임워크를 공부하고 있습니다.
 - 👯 다른 개발자들과 협력하여 오픈 소스 프로젝트에 기여하고 싶습니다.
 - 🤔 사용자 경험을 개선하기 위한 아이디어를 찾고 있습니다.
 - 💬 `JavaScript`, `React`, `CSS` 등에 관해 이야기하는 것을 좋아합니다.
-- 📫 연락 방법: [이메일 주소]
-- 😄 대명사: He/Him
+- 📫 연락 방법: [yeona2026@gmail.com]
 - ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
 
 ## 🛠 기술 스택
@@ -27,10 +26,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssu2026&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
-- **이메일**: your.email@example.com
-- **LinkedIn**: [LinkedIn 프로필 링크]
-- **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
-- **블로그**: [블로그 주소]
+- **이메일**: yeona2026@gmail.com
 
 <!-- 이 섹션은 자신의 프로필을 더욱 개성 있게 만들기 위해 추가할 수 있습니다 -->
 ## 🔥 최근 프로젝트
